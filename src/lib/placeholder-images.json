@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "logo",
+      "description": "Review Router logo",
+      "imageUrl": "https://images.unsplash.com/photo-1744390166851-82056c6552d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhYnN0cmFjdCUyMGxvZ298ZW58MHx8fHwxNzU4ODAxMjI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract logo"
+    },
+    {
+      "id": "hero",
+      "description": "Happy customer leaving a review on a phone",
+      "imageUrl": "https://images.unsplash.com/photo-1521790797524-b2497295b8a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjdXN0b21lciUyMHNhdGlzZmFjdGlvbnxlbnwwfHx8fDE3NTg5MTU1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "customer satisfaction"
+    },
+    {
+      "id": "user-avatar",
+      "description": "User avatar placeholder",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg5MDE5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "step-1",
+      "description": "Customer receiving a link on their phone.",
+      "imageUrl": "https://images.unsplash.com/photo-1704382002666-5dc4fbb522c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzaGFyaW5nJTIwbGlua3xlbnwwfHx8fDE3NTg5MTU1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sharing link"
+    },
+    {
+      "id": "step-2",
+      "description": "Customer giving a star rating on a tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1701877339447-019a4fd89d96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzdGFyJTIwcmF0aW5nfGVufDB8fHx8MTc1ODkwNzg2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "star rating"
+    },
+    {
+      "id": "step-3",
+      "description": "A split image showing Google logo and a private message icon.",
+      "imageUrl": "https://images.unsplash.com/photo-1559989899-f0743fa80152?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnb29nbGUlMjBmZWVkYmFja3xlbnwwfHx8fDE3NTg5MTU1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "google feedback"
+    }
+  ]
+}
